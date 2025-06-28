@@ -1,0 +1,30 @@
+local tab = ("Farm++")
+
+local = ("Auto Situps",function 
+end)
+
+local = ("Auto Weight",function 
+
+end)
+
+local = ("Auto Pushups",function 
+
+end)
+
+local = ("Auto Stomp",function 
+
+end)
+
+local tab = ("Kill")
+
+local = ("Auto Kill",function
+
+end)
+
+local ("Auto punch",function
+
+end)
+
+local ("Auto Equip punch",function
+
+end)
